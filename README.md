@@ -10,7 +10,10 @@
   programming. and be going to continue learning and growing as a coder, exploring new challenges.
 
   * 🌍  I'm based in Taiwan
-  * 🖥️  See my portfolio at [My Portfolio](http://alannayl.github.io/)### Skills
+  * 🖥️  See my portfolio at [My Portfolio](http://alannayl.github.io/)
+  
+  ### Skills
+  ==============================================================================================================================
   <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
@@ -55,18 +58,9 @@
         width="36" height="36" alt="Google Cloud" /></a>
   </p>
 
-  ### Socials
+  ## **Socials**
+  ==============================================================================================================================
   <p align="left">
-    <a href="https://discord.com/users/shaiying" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-        <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-        <img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
-          width="32" height="32" />
-      </picture>
-    </a>
     <a href="https://www.github.com/AlannaYL" target="_blank" rel="noreferrer">
       <picture>
         <source media="(prefers-color-scheme: dark)"
@@ -89,7 +83,11 @@
       </picture>
     </a>
   </p>
-  ### My GitHub Stats
+
+
+  
+  ## **My GitHub Stats**
+  ==============================================================================================================================
   <a href="http://www.github.com/AlannaYL"><img
       src="https://github-readme-stats.vercel.app/api?username=AlannaYL&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&show_icons=true"
       alt="AlannaYL's GitHub stats" /></a>
